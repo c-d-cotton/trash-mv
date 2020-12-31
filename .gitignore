@@ -1,2 +1,5 @@
 submodules/
 **/__pycache__/
+
+# where I write the location of the trash folder
+trashfolder.txt
